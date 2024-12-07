@@ -1,3 +1,5 @@
+# Title: My custom blocklist
+
 ||captiveportal.com^
 ||music.amazon.com^
 ||qq.com^
