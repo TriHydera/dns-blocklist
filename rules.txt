@@ -16,14 +16,12 @@ Se-tUp_9750_Pa$worDs_opeN
 ||metric.gstatic.com^
 ||tiktok-common.ibytedtos.com^
 ||ibytedtos.com^
-@@||s.youtube.com^
 ||adobedtm.com^
-||gravatar.com^
 ||mtalk.google.com^
 ||tlu.dl.delivery.mp.microsoft.com^
 ||cloud.bluestacks.com^
 ||ocsp.sectigo.com^
 ||mp.microsoft.com^
-@@||events.data.microsoft.com^
+||events.data.microsoft.com^
 ||connectivitycheck.gstatic.com^
-@@||static.whatsapp.net^
+||static.whatsapp.net^
