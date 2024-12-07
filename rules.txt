@@ -6,9 +6,10 @@
 ||mtalk.google.com^
 ||hostingfile.live^
 ||sufferedparaly.online^
-Se-tUp_9750_Pa$worDs_opeN
+||Se-tUp_9750_Pa$worDs_opeN^
 ||mwbsys.com^
 ||detectportal.firefox.com^
+||detectportal.prod.cloudops^
 ||nearbysharing-pa.googleapis.com^
 ||safebrowsing.googleapis.com^
 ||samsungapps.com^
