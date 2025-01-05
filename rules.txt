@@ -1,7 +1,8 @@
 # Title: My custom blocklist
 
+||a2z.com^
 ||captiveportal.com^
-||music.amazon.com^
+||amazon.com^
 ||qq.com^
 ||mtalk.google.com^
 ||hostingfile.live^
