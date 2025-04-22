@@ -1,3 +1,5 @@
+||fireoscaptiveportal.com^
+||tabletcaptiveportal.com^
 ||mtalk.google.com^
 ||footprints-pa.googleapis.com^
 ||connectivitycheck.gstatic.com^
