@@ -1,13 +1,14 @@
-||fireoscaptiveportal.com^
-||tabletcaptiveportal.com^
+||metrics-content.duckduckgo.com^
+||alexa.amazon.co.uk^
+||gateway.devices.a2z.com^
+||audible.com^
 ||mtalk.google.com^
 ||footprints-pa.googleapis.com^
 ||connectivitycheck.gstatic.com^
 ||alt*-mtalk.google.com^
-||captiveportal^
+
 ||amazonsilk.com^
 ||a2z.com^
-||amazon.com^
 ||music.amazon.com^
 ||qq.com^
 ||mtalk.google.com^
@@ -32,3 +33,6 @@
 ||account.samsung.com^
 ||addons-pa.googleapis.com^
 ||upload.api^
+||appcloud.mcafee.com^
+||optimizationguide-pa.googleapis.com^
+||config.edge.skype.com^
