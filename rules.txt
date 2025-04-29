@@ -1,6 +1,5 @@
 ||metrics-content.duckduckgo.com^
 ||alexa.amazon.co.uk^
-||gateway.devices.a2z.com^
 ||audible.com^
 ||mtalk.google.com^
 ||footprints-pa.googleapis.com^
