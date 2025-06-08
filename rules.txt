@@ -1,5 +1,5 @@
 # Google
-||reports.crashlytics.com^
+||crashlytics.com^
 ||firebaselogging-pa.googleapis.com^
 ||androidtvchannels-pa.googleapis.com^
 ||jnn-pa.googleapis.com^
@@ -24,34 +24,27 @@
 ||safebrowsing.googleapis.com^
 ||voilatile-pa.googleapis.com^
 ||xgapromomanager-pa.googleapis.com^
-
+||restrictedapps-pa.googleapis.com^
+||time.google.com^
 # Microsoft
 ||edge.skype.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
-
 # Amazon
 ||amazonsilk.com^
 ||a2z.com^
 ||music.amazon.com^
 ||alexa.amazon.co.uk^
 ||audible.com^
-
 # Samsung
 ||samsungapps.com^
 ||account.samsung.com^
-||play.samsungcloud.com^
-||api.samsungcloud.com^
-||policy.samsungcloud.com^
-||wu2z-api.samsungcloud.com^
-||eu-auth2.samsungosp.com^
-||api.samsungosp.com^
-||loc.samsungdive.com^
-||api.samsungfind.com^
-||up.samsungdive.com^
+||samsungcloud.com^
+||samsungosp.com^
+||samsungosp.com^
+||samsungdive.com^
+||samsungfind.com^
 ||hiyaapi.com^
-||ers.samsungcloud.com^
-
 # Misc
 # Mozilla, Microsoft, etc.
 ||qq.com^
@@ -60,10 +53,7 @@
 ||adobedtm.com^
 ||cloud.bluestacks.com^
 ||ocsp.sectigo.com^
-@@||s88570519.t.eloqua.com^
-@@||remote-data.asnapieu.com^
-@@||device-api.asnapieu.com^
 ||upload.api^
 ||appcloud.mcafee.com^
 ||ibytedtos.com^
-@@||graph.facebook.com^
+||briskbard.com^
