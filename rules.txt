@@ -26,25 +26,27 @@
 ||xgapromomanager-pa.googleapis.com^
 ||restrictedapps-pa.googleapis.com^
 ||time.google.com^
+
 # Microsoft
 ||edge.skype.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
+
 # Amazon
 ||amazonsilk.com^
 ||a2z.com^
 ||music.amazon.com^
 ||alexa.amazon.co.uk^
 ||audible.com^
+
 # Samsung
 ||samsungapps.com^
 ||account.samsung.com^
 ||samsungcloud.com^
 ||samsungosp.com^
-||samsungosp.com^
 ||samsungdive.com^
 ||samsungfind.com^
-||hiyaapi.com^
+
 # Misc
 # Mozilla, Microsoft, etc.
 ||qq.com^
@@ -57,3 +59,4 @@
 ||appcloud.mcafee.com^
 ||ibytedtos.com^
 ||briskbard.com^
+||hiyaapi.com^
