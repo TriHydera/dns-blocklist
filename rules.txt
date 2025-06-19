@@ -1,3 +1,17 @@
+! Title: My Blocklist by TriHydera 
+! Source: https://github.com/TriHydera/blocklist/blob/master/rules.txt 
+! Expires: never 
+! Home: https://github.com/TriHydera/blocklist 
+! Contribute: https://github.com/TriHydera/blocklist/issues 
+! License: MIT (https://mit-license.org/)
+
+# Amazon
+||amazonsilk.com^
+||a2z.com^
+||music.amazon.com^
+||alexa.amazon.co.uk^
+||audible.com^
+
 # Google
 ||crashlytics.com^
 ||firebaselogging-pa.googleapis.com^
@@ -7,17 +21,13 @@
 ||obiledataplansharing.googleapis.com^
 ||semanticlocation-pa.googleapis.com^
 ||nearbydevices-pa.googleapis.com^
-||mtalk.google.com^
 ||footprints-pa.googleapis.com^
-||connectivitycheck.gstatic.com^
-||alt*-mtalk.google.com^
 ||locationhistory-pa.googleapis.com^
 ||addons-pa.googleapis.com^
-@@||s.youtube.com^
 ||voledevice-pa.googleapis.com^
 ||footprints-pa.googleapis.com^
 ||mtalk.google.com^
-||accountsettingsmobile-pa.googleapis.com^
+||alt*-mtalk.google.com^
 ||optimizationguide-pa.googleapis.com^
 ||deviceintegritytokens-pa.googleapis.com^
 ||nearbysharing-pa.googleapis.com^
@@ -26,37 +36,36 @@
 ||xgapromomanager-pa.googleapis.com^
 ||restrictedapps-pa.googleapis.com^
 ||time.google.com^
+||content-autofill.googleapis.com^
+||googleadservices.com^
+
+# Google (Unblock)
+@@||s.youtube.com^
 
 # Microsoft
 ||edge.skype.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
-
-# Amazon
-||amazonsilk.com^
-||a2z.com^
-||music.amazon.com^
-||alexa.amazon.co.uk^
-||audible.com^
-
-# Samsung
-||samsungapps.com^
-||account.samsung.com^
-||samsungcloud.com^
-||samsungosp.com^
-||samsungdive.com^
-||samsungfind.com^
-
 # Misc
 # Mozilla, Microsoft, etc.
 ||qq.com^
 ||mwbsys.com^
 ||detectportal.firefox.com^
 ||adobedtm.com^
-||cloud.bluestacks.com^
 ||ocsp.sectigo.com^
 ||upload.api^
 ||appcloud.mcafee.com^
 ||ibytedtos.com^
 ||briskbard.com^
+||applepay.cdn-apple.com^
+||r1.dotdigital-pages.com^
+||flurry.com^
+# Samsung
+||samsungapps.com^
+||account.samsung.com^
+||samsungcloud.com^
+||samsungosp.com^
+||samsungosp.com^
+||samsungdive.com^
+||samsungfind.com^
 ||hiyaapi.com^

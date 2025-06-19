@@ -1,0 +1,30 @@
+# Google
+||crashlytics.com^
+||firebaselogging-pa.googleapis.com^
+||androidtvchannels-pa.googleapis.com^
+||jnn-pa.googleapis.com^
+||clientmetrics-pa.googleapis.com^
+||obiledataplansharing.googleapis.com^
+||semanticlocation-pa.googleapis.com^
+||nearbydevices-pa.googleapis.com^
+||footprints-pa.googleapis.com^
+||locationhistory-pa.googleapis.com^
+||addons-pa.googleapis.com^
+||voledevice-pa.googleapis.com^
+||footprints-pa.googleapis.com^
+||mtalk.google.com^
+||alt*-mtalk.google.com^
+||optimizationguide-pa.googleapis.com^
+||deviceintegritytokens-pa.googleapis.com^
+||nearbysharing-pa.googleapis.com^
+||safebrowsing.googleapis.com^
+||voilatile-pa.googleapis.com^
+||xgapromomanager-pa.googleapis.com^
+||restrictedapps-pa.googleapis.com^
+||time.google.com^
+||content-autofill.googleapis.com^
+||googleadservices.com^
+
+# Google (Unblock)
+@@||s.youtube.com^
+

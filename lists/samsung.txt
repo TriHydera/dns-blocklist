@@ -1,0 +1,9 @@
+# Samsung
+||samsungapps.com^
+||account.samsung.com^
+||samsungcloud.com^
+||samsungosp.com^
+||samsungosp.com^
+||samsungdive.com^
+||samsungfind.com^
+||hiyaapi.com^

@@ -1,0 +1,7 @@
+! Title: My Blocklist by TriHydera 
+! Source: https://github.com/TriHydera/blocklist/blob/master/rules.txt 
+! Expires: never 
+! Home: https://github.com/TriHydera/blocklist 
+! Contribute: https://github.com/TriHydera/blocklist/issues 
+! License: MIT (https://mit-license.org/)
+
