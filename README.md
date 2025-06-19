@@ -9,12 +9,14 @@ Just some AdGuard lists I made for myself but fell free to use them if there hel
 
 ## Lists
 
-- Amazon ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/blocklist/lists%2Famazon.txt?style=plastic)
+Find in the `lists` folder or click on the link
 
-- Google ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/blocklist/lists%2Fgoogle.txt?style=plastic)
+- [Amazon](https://github.com/TriHydera/blocklist/blob/master/lists/amazon.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/blocklist/lists%2Famazon.txt?style=plastic)
 
-- Microsoft ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/blocklist/lists%2Fmicrosoft.txt?style=plastic)
+- [Google](https://github.com/TriHydera/blocklist/blob/master/lists/google.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/blocklist/lists%2Fgoogle.txt?style=plastic)
 
-- Samsung ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/blocklist/lists%2Fsamsung.txt?style=plastic)
+- [Microsoft](https://github.com/TriHydera/blocklist/blob/master/lists/microsoft.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/blocklist/lists%2Fmicrosoft.txt?style=plastic)
 
-- Misc ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/blocklist/lists%2Fmisc.txt?style=plastic)
+- [Samsung](https://github.com/TriHydera/blocklist/blob/master/lists/samsung.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/blocklist/lists%2Fsamsung.txt?style=plastic)
+
+- [Misc](https://github.com/TriHydera/blocklist/blob/master/lists/misc.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/blocklist/lists%2Fmisc.txt?style=plastic)
