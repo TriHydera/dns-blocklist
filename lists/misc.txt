@@ -1,14 +1,11 @@
 # Misc
 # Mozilla, Microsoft, etc.
 ||qq.com^
-||mwbsys.com^
 ||detectportal.firefox.com^
 ||adobedtm.com^
 ||ocsp.sectigo.com^
-||upload.api^
 ||appcloud.mcafee.com^
-||ibytedtos.com^
 ||briskbard.com^
-||applepay.cdn-apple.com^
 ||r1.dotdigital-pages.com^
 ||flurry.com^
+||app-errors.overwolf.com^

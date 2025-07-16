@@ -12,8 +12,6 @@
 ||addons-pa.googleapis.com^
 ||voledevice-pa.googleapis.com^
 ||footprints-pa.googleapis.com^
-||mtalk.google.com^
-||alt*-mtalk.google.com^
 ||optimizationguide-pa.googleapis.com^
 ||deviceintegritytokens-pa.googleapis.com^
 ||nearbysharing-pa.googleapis.com^
@@ -24,6 +22,9 @@
 ||time.google.com^
 ||content-autofill.googleapis.com^
 ||googleadservices.com^
+||people-pa.googleapis.com^
+||metric.gstatic.com^
+||findmydevice-pa.googleapis.com^
 
 # Google (Unblock)
 @@||s.youtube.com^

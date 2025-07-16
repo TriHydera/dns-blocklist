@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "shields-lightweight": "^0.1.0"
+  },
+  "scripts": {
+    "start": "node ./src/combine.js"
+  }
+}

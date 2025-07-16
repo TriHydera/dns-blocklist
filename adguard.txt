@@ -1,16 +1,22 @@
-! Title: My Blocklist by TriHydera 
-! Source: https://github.com/TriHydera/blocklist/blob/master/rules.txt 
-! Expires: never 
-! Home: https://github.com/TriHydera/blocklist 
-! Contribute: https://github.com/TriHydera/blocklist/issues 
+! Title: TriHydera's Big Tech and Junk Blocklist
+! Description: Blocks a few Big Tech domains and some other junk.
+! Source: https://github.com/TriHydera/dns-blocklist/blob/master/rules.txt 
+! Expires: 7 days 
+! Home: https://github.com/TriHydera/dns-blocklist 
+! Contribute: https://github.com/TriHydera/dns-blocklist/issues 
 ! License: MIT (https://mit-license.org/)
-
+! Last modified: 2025-07-16T20:43:33.851Z
+! Syntax: AdBlock
+! Number of entries: 57
+!
 # Amazon
+||unagi.amazon.com^
+||unagi-*.amazon.com^
 ||amazonsilk.com^
-||a2z.com^
 ||music.amazon.com^
 ||alexa.amazon.co.uk^
 ||audible.com^
+||a2z.com^
 
 # Google
 ||crashlytics.com^
@@ -26,8 +32,6 @@
 ||addons-pa.googleapis.com^
 ||voledevice-pa.googleapis.com^
 ||footprints-pa.googleapis.com^
-||mtalk.google.com^
-||alt*-mtalk.google.com^
 ||optimizationguide-pa.googleapis.com^
 ||deviceintegritytokens-pa.googleapis.com^
 ||nearbysharing-pa.googleapis.com^
@@ -38,28 +42,19 @@
 ||time.google.com^
 ||content-autofill.googleapis.com^
 ||googleadservices.com^
+||people-pa.googleapis.com^
+||metric.gstatic.com^
+||findmydevice-pa.googleapis.com^
 
 # Google (Unblock)
 @@||s.youtube.com^
 
+
 # Microsoft
-||edge.skype.com^
+||skype.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
-# Misc
-# Mozilla, Microsoft, etc.
-||qq.com^
-||mwbsys.com^
-||detectportal.firefox.com^
-||adobedtm.com^
-||ocsp.sectigo.com^
-||upload.api^
-||appcloud.mcafee.com^
-||ibytedtos.com^
-||briskbard.com^
-||applepay.cdn-apple.com^
-||r1.dotdigital-pages.com^
-||flurry.com^
+
 # Samsung
 ||samsungapps.com^
 ||account.samsung.com^
@@ -69,3 +64,21 @@
 ||samsungdive.com^
 ||samsungfind.com^
 ||hiyaapi.com^
+
+# Misc
+# Mozilla, Microsoft, etc.
+||qq.com^
+||detectportal.firefox.com^
+||adobedtm.com^
+||ocsp.sectigo.com^
+||appcloud.mcafee.com^
+||briskbard.com^
+||r1.dotdigital-pages.com^
+||flurry.com^
+||app-errors.overwolf.com^
+
+# Abused TLDs
+||.top^
+||.cn^
+||.su^
+||.se^

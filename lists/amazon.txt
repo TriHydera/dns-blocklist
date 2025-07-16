@@ -1,7 +1,8 @@
 # Amazon
+||unagi.amazon.com^
+||unagi-*.amazon.com^
 ||amazonsilk.com^
-||a2z.com^
 ||music.amazon.com^
 ||alexa.amazon.co.uk^
 ||audible.com^
-
+||a2z.com^

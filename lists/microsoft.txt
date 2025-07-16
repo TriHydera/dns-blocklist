@@ -1,4 +1,4 @@
 # Microsoft
-||edge.skype.com^
+||skype.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
