@@ -1,3 +1,4 @@
+[Adblock Plus]
 ! Title: TriHydera's Big Tech and Junk Blocklist
 ! Description: Blocks a few Big Tech domains and some other junk.
 ! Source: https://github.com/TriHydera/dns-blocklist/blob/master/rules.txt 
@@ -5,65 +6,79 @@
 ! Home: https://github.com/TriHydera/dns-blocklist 
 ! Contribute: https://github.com/TriHydera/dns-blocklist/issues 
 ! License: MIT (https://mit-license.org/)
-! Last modified: 2025-07-16T20:43:33.851Z
-! Syntax: AdBlock
-! Number of entries: 57
+! Last modified: 2025-07-27T19:40:36.424Z
+! Number of entries: 69
 !
 # Amazon
 ||unagi.amazon.com^
 ||unagi-*.amazon.com^
 ||amazonsilk.com^
-||music.amazon.com^
-||alexa.amazon.co.uk^
+||music.amazon.co^
+||alexa.amazon.co^
 ||audible.com^
 ||a2z.com^
 
-# Google
+# Bad / Abused TLDs
+||.top^
+||.cn^
+||.su^
+||.se^
+||.xyz^
+||.win^
+||.top^
+||.date^
+||.cf^
+
+# Google (General)
 ||crashlytics.com^
+||googleadservices.com^
+||metric.gstatic.com^
+||time.google.com^
+||mtalk.google.com^
+||alt*-mtalk.google.com^
+
+# Google (APIs)
+||datasaver.googleapis.com^
+||safebrowsing.googleapis.com^
+||content-autofill.googleapis.com^
+
+# Google (Public APIs)
+||growth-pa.googleapis.com^
+||people-pa.googleapis.com^
+||peoplestack-pa.clients*.google.com^
 ||firebaselogging-pa.googleapis.com^
 ||androidtvchannels-pa.googleapis.com^
 ||jnn-pa.googleapis.com^
 ||clientmetrics-pa.googleapis.com^
 ||obiledataplansharing.googleapis.com^
-||semanticlocation-pa.googleapis.com^
-||nearbydevices-pa.googleapis.com^
-||footprints-pa.googleapis.com^
-||locationhistory-pa.googleapis.com^
-||addons-pa.googleapis.com^
-||voledevice-pa.googleapis.com^
 ||footprints-pa.googleapis.com^
 ||optimizationguide-pa.googleapis.com^
-||deviceintegritytokens-pa.googleapis.com^
 ||nearbysharing-pa.googleapis.com^
-||safebrowsing.googleapis.com^
 ||voilatile-pa.googleapis.com^
 ||xgapromomanager-pa.googleapis.com^
 ||restrictedapps-pa.googleapis.com^
-||time.google.com^
-||content-autofill.googleapis.com^
-||googleadservices.com^
-||people-pa.googleapis.com^
-||metric.gstatic.com^
+||clienttracing-pa.googleapis.com^
+||appsgrowthpromo-pa.clients*.google.com^
+||signaler-pa.clients*.google.com^
+
+# Google (Device)
+||voledevice-pa.googleapis.com^
+||nearbydevices-pa.googleapis.com^
+||deviceintegritytokens-pa.googleapis.com^
 ||findmydevice-pa.googleapis.com^
+
+# Google (location)
+||locationhistory-pa.googleapis.com^
+||locationhistoryaggregates-pa.googleapis.com^
+||semanticlocation-pa.googleapis.com^
 
 # Google (Unblock)
 @@||s.youtube.com^
-
 
 # Microsoft
 ||skype.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
-
-# Samsung
-||samsungapps.com^
-||account.samsung.com^
-||samsungcloud.com^
-||samsungosp.com^
-||samsungosp.com^
-||samsungdive.com^
-||samsungfind.com^
-||hiyaapi.com^
 
 # Misc
 # Mozilla, Microsoft, etc.
@@ -77,8 +92,16 @@
 ||flurry.com^
 ||app-errors.overwolf.com^
 
-# Abused TLDs
-||.top^
-||.cn^
-||.su^
-||.se^
+# Samsung
+||samsungapps.com^
+||account.samsung.com^
+||samsungcloud.com^
+||samsungosp.com^
+||samsungosp.com^
+||samsungdive.com^
+||samsungfind.com^
+||hiyaapi.com^
+
+# Twitter (Unblock)
+@@||t.co^
+

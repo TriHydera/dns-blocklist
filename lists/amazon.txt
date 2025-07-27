@@ -2,7 +2,7 @@
 ||unagi.amazon.com^
 ||unagi-*.amazon.com^
 ||amazonsilk.com^
-||music.amazon.com^
-||alexa.amazon.co.uk^
+||music.amazon.co^
+||alexa.amazon.co^
 ||audible.com^
 ||a2z.com^

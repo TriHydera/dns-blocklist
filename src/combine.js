@@ -64,3 +64,7 @@ files.forEach(file => {
 
 writeFileSync("./adguard.txt", `${headerContents(ruleCount)}\n${newContent}`)
 writeFileSync("./badge/rules.svg", shields.svg('Rules', `${ruleCount}`, "blue", "plastic"))
+
+// =====================================================================
+
+console.log(`${ruleCount} rules processed!`)

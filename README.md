@@ -28,4 +28,6 @@ Find in the `lists` folder or click on the link
 
 - [Misc](https://github.com/TriHydera/dns-blocklist/blob/master/lists/misc.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fmisc.txt?style=plastic)
 
-- [Abused TLDs](https://github.com/TriHydera/dns-blocklist/blob/master/lists/abused-tlds.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fabused-tlds.txt?style=plastic)
+- [Bad / Abused TLDs](https://github.com/TriHydera/dns-blocklist/blob/master/lists/bad-abused-tlds.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fbad-abused-tlds.txt?style=plastic)
+
+- [Twitter](https://github.com/TriHydera/dns-blocklist/blob/master/lists/twitter.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Ftwitter.txt?style=plastic)

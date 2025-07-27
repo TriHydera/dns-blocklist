@@ -1,5 +1,0 @@
-# Abused TLDs
-||.top^
-||.cn^
-||.su^
-||.se^

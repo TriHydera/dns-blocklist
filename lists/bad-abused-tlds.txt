@@ -1,0 +1,10 @@
+# Bad / Abused TLDs
+||.top^
+||.cn^
+||.su^
+||.se^
+||.xyz^
+||.win^
+||.top^
+||.date^
+||.cf^
