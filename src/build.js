@@ -31,9 +31,9 @@ return headerTemplate
 // =====================================================================
 
 /**
- * @type {Array}
+ * @type {Array<string>}
  */
-const files = readdirSync("./lists")
+const files = readdirSync("./src/lists")
 var newContent = ""
 
 /**
@@ -49,7 +49,7 @@ const isRule = (text => {
 })
 
 files.forEach(file => {
-    const fileContent = readFileSync("lists/" + file).toString()
+    const fileContent = readFileSync("src/lists/" + file).toString()
 
     fileContent.split("\n").forEach(line => {
         newContent = newContent +`${line}\n`
