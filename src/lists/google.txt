@@ -1,6 +1,5 @@
 # Google (General)
 ||crashlytics.com^
-||googleadservices.com^
 ||metric.gstatic.com^
 
 # Google (APIs)

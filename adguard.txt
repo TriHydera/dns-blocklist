@@ -6,8 +6,8 @@
 ! Home: https://github.com/TriHydera/dns-blocklist 
 ! Contribute: https://github.com/TriHydera/dns-blocklist/issues 
 ! License: MIT (https://mit-license.org/)
-! Last modified: 2025-07-30T12:11:16.251Z
-! Number of entries: 73
+! Last modified: 2025-09-06T21:51:04.727Z
+! Number of entries: 85
 !
 # Amazon
 ||unagi.amazon.com^
@@ -17,7 +17,9 @@
 ||alexa.amazon.co^
 ||audible.com^
 ||a2z.com^
-
+||device-messaging-na.amazon.com^
+||todo-ta-g7g.amazon.com^
+||msh.amazon.com^
 # Bad / Abused TLDs
 ||.top^
 ||.cn^
@@ -28,10 +30,18 @@
 ||.top^
 ||.date^
 ||.cf^
-
+||.cc^
+||.ml^
+||.nl^
+||.tk^
+||.gq^
+||.cf^
+||.ga^
+||.uc^
+||.uz^
+||.ae^
 # Google (General)
 ||crashlytics.com^
-||googleadservices.com^
 ||metric.gstatic.com^
 
 # Google (APIs)
@@ -80,12 +90,10 @@
 
 # Google (Unblock)
 @@||s.youtube.com^ # For YT history
-
 # Microsoft
 ||skype.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
-
 # Misc
 # Mozilla, Microsoft, etc.
 ||qq.com^
@@ -97,17 +105,16 @@
 ||r1.dotdigital-pages.com^
 ||flurry.com^
 ||app-errors.overwolf.com^
-
+||onezapp.com^
+# Misc (Unblock)
+@@||adjust.com^
 # Samsung
 ||samsungapps.com^
 ||account.samsung.com^
-||samsungcloud.com^
 ||samsungosp.com^
 ||samsungosp.com^
 ||samsungdive.com^
 ||samsungfind.com^
 ||hiyaapi.com^
-
 # Twitter (Unblock)
 @@||t.co^
-
