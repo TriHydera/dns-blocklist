@@ -5,4 +5,3 @@
 ||samsungosp.com^
 ||samsungdive.com^
 ||samsungfind.com^
-||hiyaapi.com^

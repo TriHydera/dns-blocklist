@@ -9,6 +9,8 @@
 ||r1.dotdigital-pages.com^
 ||flurry.com^
 ||app-errors.overwolf.com^
+||analyticsnew.overwolf.com^
 ||onezapp.com^
 # Misc (Unblock)
 @@||adjust.com^
+@@||analytics.ionos.co.uk^
