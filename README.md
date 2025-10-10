@@ -20,7 +20,11 @@ Find in the `lists` folder or click on the link
 
 - [Amazon](https://github.com/TriHydera/dns-blocklist/blob/master/lists/amazon.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Famazon.txt?style=plastic)
 
+- [Amazon](https://github.com/TriHydera/dns-blocklist/blob/master/lists/amazon-services.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Famazon-services.txt?style=plastic)
+
 - [Google](https://github.com/TriHydera/dns-blocklist/blob/master/lists/google.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fgoogle.txt?style=plastic)
+
+- [Google APIs](https://github.com/TriHydera/dns-blocklist/blob/master/lists/google-apis.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fgoogle-apis.txt?style=plastic)
 
 - [Microsoft](https://github.com/TriHydera/dns-blocklist/blob/master/lists/microsoft.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fmicrosoft.txt?style=plastic)
 

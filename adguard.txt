@@ -1,4 +1,3 @@
-[Adblock Plus]
 ! Title: TriHydera's Big Tech and Junk Blocklist
 ! Description: Blocks a few Big Tech domains and some other junk.
 ! Source: https://github.com/TriHydera/dns-blocklist/blob/master/rules.txt 
@@ -6,21 +5,68 @@
 ! Home: https://github.com/TriHydera/dns-blocklist 
 ! Contribute: https://github.com/TriHydera/dns-blocklist/issues 
 ! License: MIT (https://mit-license.org/)
-! Last modified: 2025-09-22T19:34:27.370Z
-! Number of entries: 85
+! Last modified: Fri Oct 10 2025
+! Number of entries: 89
 !
-# Amazon
 ||unagi.amazon.com^
 ||unagi-*.amazon.com^
 ||amazonsilk.com^
-||music.amazon.co^
-||alexa.amazon.co^
-||audible.com^
 ||a2z.com^
 ||device-messaging-na.amazon.com^
 ||todo-ta-g7g.amazon.com^
 ||msh.amazon.com^
-# Bad / Abused TLDs
+||music.amazon.co^
+||alexa.amazon.co^
+||audible.com^
+||crashlytics.com^
+||metric.gstatic.com^
+||datasaver.googleapis.com^
+||safebrowsing.googleapis.com^
+||content-autofill.googleapis.com^
+||ad-creatives-public.commondatastorage.googleapis.com^
+||growth-pa.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||jnn-pa.googleapis.com^
+||clienttracing-pa.googleapis.com^
+||obiledataplansharing.googleapis.com^
+||optimizationguide-pa.googleapis.com^
+||nearbysharing-pa.googleapis.com^
+||voilatile-pa.googleapis.com^
+||xgapromomanager-pa.googleapis.com^
+||searchpromo-pa.googleapis.com^
+||restrictedapps-pa.googleapis.com^
+||appsgrowthpromo-pa.clients*.google.com^
+||signaler-pa.clients*.google.com^
+||infinitedata-pa.googleapis.com^
+||content-partnersbadge-pa.googleapis.com^
+||firebasepredictions.googleapis.com^
+||wirelessdevicestats.googleapis.com^
+||feedback-pa.clients6.google.com^
+||feedback-pa.google.com^
+||clientmetrics-pa.googleapis.com^
+||clienttracing-pa.googleapis.com^
+||tagmanager.googleapis.com^
+||footprints-pa.googleapis.com^
+||androidtvchannels-pa.googleapis.com^
+||androidtvwatsonfe-pa.googleapis.com^
+||voledevice-pa.googleapis.com^
+||nearbydevices-pa.googleapis.com^
+||deviceintegritytokens-pa.googleapis.com^
+||locationhistory-pa.googleapis.com^
+||locationhistoryaggregates-pa.googleapis.com^
+||semanticlocation-pa.googleapis.com^
+||timeline.google.com^
+||auditrecording-pa.googleapis.com^
+||skype.com^
+||geover.prod.do.dsp.mp.microsoft.com^
+||msedge.api.cdp.microsoft.com^
+||samsungcloud.com^
+||samsungapps.com^
+||account.samsung.com^
+||samsungosp.com^
+||samsungosp.com^
+||samsungdive.com^
+||samsungfind.com^
 ||.top^
 ||.cn^
 ||.su^
@@ -40,56 +86,6 @@
 ||.uc^
 ||.uz^
 ||.ae^
-# Google (General)
-||crashlytics.com^
-||metric.gstatic.com^
-# Google (APIs)
-||datasaver.googleapis.com^
-||safebrowsing.googleapis.com^
-||content-autofill.googleapis.com^
-# Google (Public APIs)
-||auditrecording-pa.googleapis.com^
-||growth-pa.googleapis.com^
-||firebaselogging-pa.googleapis.com^
-||jnn-pa.googleapis.com^
-||clientmetrics-pa.googleapis.com^
-||clienttracing-pa.googleapis.com^
-||obiledataplansharing.googleapis.com^
-||footprints-pa.googleapis.com^
-||optimizationguide-pa.googleapis.com^
-||nearbysharing-pa.googleapis.com^
-||voilatile-pa.googleapis.com^
-||xgapromomanager-pa.googleapis.com^
-||searchpromo-pa.googleapis.com^
-||restrictedapps-pa.googleapis.com^
-||clienttracing-pa.googleapis.com^
-||appsgrowthpromo-pa.clients*.google.com^
-||signaler-pa.clients*.google.com^
-||infinitedata-pa.googleapis.com^
-||content-partnersbadge-pa.googleapis.com^
-||firebasepredictions.googleapis.com^
-||wirelessdevicestats.googleapis.com^
-||tagmanager.googleapis.com^
-# Android TV
-||androidtvchannels-pa.googleapis.com^
-||androidtvwatsonfe-pa.googleapis.com^
-# Google (Device)
-||voledevice-pa.googleapis.com^
-||nearbydevices-pa.googleapis.com^
-||deviceintegritytokens-pa.googleapis.com^
-# Google (location)
-||locationhistory-pa.googleapis.com^
-||locationhistoryaggregates-pa.googleapis.com^
-||semanticlocation-pa.googleapis.com^
-||timeline.google.com^
-# Google (Unblock)
-@@||s.youtube.com^ # For YT history
-# Microsoft
-||skype.com^
-||geover.prod.do.dsp.mp.microsoft.com^
-||msedge.api.cdp.microsoft.com^
-# Misc
-# Mozilla, Microsoft, etc.
 ||qq.com^
 ||detectportal.firefox.com^
 ||adobedtm.com^
@@ -101,15 +97,3 @@
 ||app-errors.overwolf.com^
 ||analyticsnew.overwolf.com^
 ||onezapp.com^
-# Misc (Unblock)
-@@||adjust.com^
-@@||analytics.ionos.co.uk^
-# Samsung
-||samsungapps.com^
-||account.samsung.com^
-||samsungosp.com^
-||samsungosp.com^
-||samsungdive.com^
-||samsungfind.com^
-# Twitter (Unblock)
-@@||t.co^

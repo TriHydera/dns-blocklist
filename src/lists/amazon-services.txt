@@ -1,0 +1,4 @@
+# Amazon (Services)
+||music.amazon.co^
+||alexa.amazon.co^
+||audible.com^

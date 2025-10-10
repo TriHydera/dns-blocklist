@@ -2,9 +2,6 @@
 ||unagi.amazon.com^
 ||unagi-*.amazon.com^
 ||amazonsilk.com^
-||music.amazon.co^
-||alexa.amazon.co^
-||audible.com^
 ||a2z.com^
 ||device-messaging-na.amazon.com^
 ||todo-ta-g7g.amazon.com^

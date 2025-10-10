@@ -1,0 +1,47 @@
+# Google (APIs)
+||datasaver.googleapis.com^
+||safebrowsing.googleapis.com^
+||content-autofill.googleapis.com^
+||ad-creatives-public.commondatastorage.googleapis.com^
+
+# Google (Public APIs)
+||growth-pa.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||jnn-pa.googleapis.com^
+||clienttracing-pa.googleapis.com^
+||obiledataplansharing.googleapis.com^
+||optimizationguide-pa.googleapis.com^
+||nearbysharing-pa.googleapis.com^
+||voilatile-pa.googleapis.com^
+||xgapromomanager-pa.googleapis.com^
+||searchpromo-pa.googleapis.com^
+||restrictedapps-pa.googleapis.com^
+||appsgrowthpromo-pa.clients*.google.com^
+||signaler-pa.clients*.google.com^
+||infinitedata-pa.googleapis.com^
+||content-partnersbadge-pa.googleapis.com^
+||firebasepredictions.googleapis.com^
+||wirelessdevicestats.googleapis.com^
+||feedback-pa.clients6.google.com^
+||feedback-pa.google.com^
+
+# Google (Tracking)
+||clientmetrics-pa.googleapis.com^
+||clienttracing-pa.googleapis.com^
+||tagmanager.googleapis.com^
+||footprints-pa.googleapis.com^
+
+# Android TV
+||androidtvchannels-pa.googleapis.com^
+||androidtvwatsonfe-pa.googleapis.com^
+
+# Google (Device)
+||voledevice-pa.googleapis.com^
+||nearbydevices-pa.googleapis.com^
+||deviceintegritytokens-pa.googleapis.com^
+
+# Google (Location)
+||locationhistory-pa.googleapis.com^
+||locationhistoryaggregates-pa.googleapis.com^
+||semanticlocation-pa.googleapis.com^
+||timeline.google.com^

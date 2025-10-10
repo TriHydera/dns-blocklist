@@ -1,44 +1,6 @@
 # Google (General)
 ||crashlytics.com^
 ||metric.gstatic.com^
-# Google (APIs)
-||datasaver.googleapis.com^
-||safebrowsing.googleapis.com^
-||content-autofill.googleapis.com^
-# Google (Public APIs)
-||auditrecording-pa.googleapis.com^
-||growth-pa.googleapis.com^
-||firebaselogging-pa.googleapis.com^
-||jnn-pa.googleapis.com^
-||clientmetrics-pa.googleapis.com^
-||clienttracing-pa.googleapis.com^
-||obiledataplansharing.googleapis.com^
-||footprints-pa.googleapis.com^
-||optimizationguide-pa.googleapis.com^
-||nearbysharing-pa.googleapis.com^
-||voilatile-pa.googleapis.com^
-||xgapromomanager-pa.googleapis.com^
-||searchpromo-pa.googleapis.com^
-||restrictedapps-pa.googleapis.com^
-||clienttracing-pa.googleapis.com^
-||appsgrowthpromo-pa.clients*.google.com^
-||signaler-pa.clients*.google.com^
-||infinitedata-pa.googleapis.com^
-||content-partnersbadge-pa.googleapis.com^
-||firebasepredictions.googleapis.com^
-||wirelessdevicestats.googleapis.com^
-||tagmanager.googleapis.com^
-# Android TV
-||androidtvchannels-pa.googleapis.com^
-||androidtvwatsonfe-pa.googleapis.com^
-# Google (Device)
-||voledevice-pa.googleapis.com^
-||nearbydevices-pa.googleapis.com^
-||deviceintegritytokens-pa.googleapis.com^
-# Google (location)
-||locationhistory-pa.googleapis.com^
-||locationhistoryaggregates-pa.googleapis.com^
-||semanticlocation-pa.googleapis.com^
-||timeline.google.com^
+
 # Google (Unblock)
 @@||s.youtube.com^ # For YT history

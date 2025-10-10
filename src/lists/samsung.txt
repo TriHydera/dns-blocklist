@@ -1,4 +1,5 @@
 # Samsung
+||samsungcloud.com^
 ||samsungapps.com^
 ||account.samsung.com^
 ||samsungosp.com^

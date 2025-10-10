@@ -10,22 +10,21 @@ var shields = require('shields-lightweight');
  * @returns {string}
  */
 function headerContents(ruleCount) {
-/**
- * @type {string}
- */
-const headerTemplate = `[Adblock Plus]
-! Title: TriHydera's Big Tech and Junk Blocklist
+    /**
+     * @type {string}
+     */
+    const headerTemplate = `! Title: TriHydera's Big Tech and Junk Blocklist
 ! Description: Blocks a few Big Tech domains and some other junk.
 ! Source: https://github.com/TriHydera/dns-blocklist/blob/master/rules.txt 
 ! Expires: 7 days 
 ! Home: https://github.com/TriHydera/dns-blocklist 
 ! Contribute: https://github.com/TriHydera/dns-blocklist/issues 
 ! License: MIT (https://mit-license.org/)
-! Last modified: ${new Date().toISOString()}
+! Last modified: ${new Date().toDateString()}
 ! Number of entries: ${ruleCount}
 !`
 
-return headerTemplate
+    return headerTemplate
 }
 
 // =====================================================================
@@ -33,7 +32,18 @@ return headerTemplate
 /**
  * @type {Array<string>}
  */
-const files = readdirSync("./src/lists")
+const files = [
+    "amazon.txt",
+    "amazon-services.txt",   
+    "google.txt",
+    "google-apis.txt",
+    "google-apis-extra.txt",
+    "microsoft.txt",
+    "samsung.txt",
+    "twitter.txt",
+    "bad-abused-tlds.txt",
+    "misc.txt"
+]
 var newContent = ""
 
 /**
@@ -52,9 +62,8 @@ files.forEach(file => {
     const fileContent = readFileSync("src/lists/" + file).toString()
 
     fileContent.split("\n").forEach(line => {
-        newContent = newContent +`${line}\n`
-
-        if(isRule(line)) {
+        if (isRule(line)) {
+            newContent = newContent + `${line}\n`
             ruleCount = ruleCount + 1
         }
     })
