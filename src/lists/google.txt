@@ -2,8 +2,9 @@
 ||crashlytics.com^
 ||metric.gstatic.com^
 
-# Google (Ad)
+# Google (Ads)
 ||googlesyndication.com^
+||doubleclick.net^
 
 # Google (Unblock)
 @@||s.youtube.com^ # For YT history

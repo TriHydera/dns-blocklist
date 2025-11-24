@@ -1,12 +1,12 @@
 ! Title: TriHydera's Big Tech and Junk Blocklist
 ! Description: Blocks a few Big Tech domains and some other junk.
-! Source: https://github.com/TriHydera/dns-blocklist 
+! Source: https://github.com/TriHydera/dns-blocklist/blob/master/rules.txt 
 ! Expires: 30 days 
 ! Home: https://github.com/TriHydera/dns-blocklist 
 ! Contribute: https://github.com/TriHydera/dns-blocklist/issues 
 ! License: MIT (https://mit-license.org/)
-! Last modified: Mon Nov 17 2025
-! Number of entries: 91
+! Last modified: Mon Nov 24 2025
+! Number of entries: 93
 !
 ||unagi.amazon.com^
 ||unagi-*.amazon.com^
@@ -21,6 +21,7 @@
 ||crashlytics.com^
 ||metric.gstatic.com^
 ||googlesyndication.com^
+||doubleclick.net^
 ||datasaver.googleapis.com^
 ||safebrowsing.googleapis.com^
 ||content-autofill.googleapis.com^
@@ -99,3 +100,4 @@
 ||app-errors.overwolf.com^
 ||analyticsnew.overwolf.com^
 ||onezapp.com^
+||ipify.org^
