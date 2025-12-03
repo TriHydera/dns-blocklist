@@ -18,20 +18,20 @@ Heres the compiled list with all domains
 
 Find in the `lists` folder or click on the link
 
-- [Amazon](https://github.com/TriHydera/dns-blocklist/blob/master/lists/amazon.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Famazon.txt?style=plastic)
+- [Amazon](https://github.com/TriHydera/dns-blocklist/blob/master/lists/amazon.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Famazon.txt?style=plastic)
 
-- [Amazon](https://github.com/TriHydera/dns-blocklist/blob/master/lists/amazon-services.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Famazon-services.txt?style=plastic)
+- [Amazon](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/amazon-services.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Famazon-services.txt?style=plastic)
 
-- [Google](https://github.com/TriHydera/dns-blocklist/blob/master/lists/google.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fgoogle.txt?style=plastic)
+- [Google](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/google.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fgoogle.txt?style=plastic)
 
-- [Google APIs](https://github.com/TriHydera/dns-blocklist/blob/master/lists/google-apis.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fgoogle-apis.txt?style=plastic)
+- [Google APIs](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/google-apis.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fgoogle-apis.txt?style=plastic)
 
-- [Microsoft](https://github.com/TriHydera/dns-blocklist/blob/master/lists/microsoft.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fmicrosoft.txt?style=plastic)
+- [Microsoft](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/microsoft.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fmicrosoft.txt?style=plastic)
 
-- [Samsung](https://github.com/TriHydera/dns-blocklist/blob/master/lists/samsung.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fsamsung.txt?style=plastic)
+- [Samsung](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/samsung.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fsamsung.txt?style=plastic)
 
-- [Misc](https://github.com/TriHydera/dns-blocklist/blob/master/lists/misc.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fmisc.txt?style=plastic)
+- [Misc](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/misc.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fmisc.txt?style=plastic)
 
-- [Bad / Abused TLDs](https://github.com/TriHydera/dns-blocklist/blob/master/lists/bad-abused-tlds.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Fbad-abused-tlds.txt?style=plastic)
+- [Bad / Abused TLDs](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/bad-abused-tlds.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fbad-abused-tlds.txt?style=plastic)
 
-- [Twitter](https://github.com/TriHydera/dns-blocklist/blob/master/lists/twitter.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/lists%2Ftwitter.txt?style=plastic)
+- [Twitter](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/twitter.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Ftwitter.txt?style=plastic)
