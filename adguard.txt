@@ -1,11 +1,11 @@
 ! Title: TriHydera's Big Tech and Junk Blocklist
 ! Description: Blocks a few Big Tech domains and some other junk.
-! Source: https://github.com/TriHydera/dns-blocklist/blob/master/adguard.txt 
+! Expires: 30 days 
 ! Home: https://github.com/TriHydera/dns-blocklist 
 ! Contribute: https://github.com/TriHydera/dns-blocklist/issues 
-! License: https://github.com/TriHydera/dns-blocklist/blob/master/LICENSE
-! Last modified: Tue Dec 02 2025
-! Number of entries: 92
+! License: MIT (https://mit-license.org/)
+! Last modified: Thu Jan 08 2026
+! Number of entries: 93
 !
 ||unagi.amazon.com^
 ||unagi-*.amazon.com^
@@ -69,6 +69,7 @@
 ||samsungosp.com^
 ||samsungdive.com^
 ||samsungfind.com^
+||samsungcloudplatform.com^
 ||.top^
 ||.cn^
 ||.su^
@@ -91,7 +92,6 @@
 ||qq.com^
 ||detectportal.firefox.com^
 ||adobedtm.com^
-||ocsp.sectigo.com^
 ||appcloud.mcafee.com^
 ||briskbard.com^
 ||r1.dotdigital-pages.com^
@@ -99,3 +99,4 @@
 ||app-errors.overwolf.com^
 ||analyticsnew.overwolf.com^
 ||onezapp.com^
+||alb.reddit.com^

@@ -3,7 +3,6 @@
 ||qq.com^
 ||detectportal.firefox.com^
 ||adobedtm.com^
-||ocsp.sectigo.com^
 ||appcloud.mcafee.com^
 ||briskbard.com^
 ||r1.dotdigital-pages.com^
@@ -11,6 +10,8 @@
 ||app-errors.overwolf.com^
 ||analyticsnew.overwolf.com^
 ||onezapp.com^
+||alb.reddit.com^
+
 # Misc (Unblock)
 @@||adjust.com^
 @@||analytics.ionos.co.uk^

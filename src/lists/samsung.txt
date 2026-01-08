@@ -6,3 +6,4 @@
 ||samsungosp.com^
 ||samsungdive.com^
 ||samsungfind.com^
+||samsungcloudplatform.com^
