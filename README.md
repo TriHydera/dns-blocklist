@@ -1,6 +1,6 @@
 ## TriHydera's Big Tech and Junk Blocklist (AdGuard)
 
-Just some AdGuard lists I made for myself but fell free to use them if there helpful I will update whne I want to
+Just some AdGuard lists I made for myself but feel free to use them if it's helpful for you, I will update when I want to
 
 ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/adguard.txt?style=plastic&label=Rules%20size)
 ![Rules](./badge/rules.svg)
@@ -10,13 +10,19 @@ Just some AdGuard lists I made for myself but fell free to use them if there hel
 
 ---
 
+## List URL
+
+```
+https://github.com/TriHydera/dns-blocklist/raw/refs/heads/master/adguard.txt
+```
+
 ## Lists
 
 Heres the compiled list with all domains
 
 - [Compiled List](https://github.com/TriHydera/dns-blocklist/blob/master/adguard.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/adguard.txt?style=plastic)
 
-Find in the `lists` folder or click on the link
+Find the sources in the `lists` folder or click on the link
 
 - [Amazon](https://github.com/TriHydera/dns-blocklist/blob/master/lists/amazon.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Famazon.txt?style=plastic)
 
