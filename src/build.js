@@ -15,10 +15,9 @@ function headerContents(ruleCount) {
      */
     const headerTemplate = `! Title: TriHydera's Big Tech and Junk Blocklist
 ! Description: Blocks a few Big Tech domains and some other junk.
-! Expires: 30 days 
-! Home: https://github.com/TriHydera/dns-blocklist 
-! Contribute: https://github.com/TriHydera/dns-blocklist/issues 
-! License: MIT (https://mit-license.org/)
+! Home: https://github.com/TriHydera/dns-blocklist
+! Contribute: https://github.com/TriHydera/dns-blocklist/discussions
+! License: https://github.com/TriHydera/dns-blocklist/blob/master/LICENSE
 ! Last modified: ${new Date().toDateString()}
 ! Number of entries: ${ruleCount}
 !`

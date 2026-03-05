@@ -1,11 +1,10 @@
 ! Title: TriHydera's Big Tech and Junk Blocklist
 ! Description: Blocks a few Big Tech domains and some other junk.
-! Expires: 30 days 
-! Home: https://github.com/TriHydera/dns-blocklist 
-! Contribute: https://github.com/TriHydera/dns-blocklist/issues 
-! License: MIT (https://mit-license.org/)
-! Last modified: Thu Jan 08 2026
-! Number of entries: 93
+! Home: https://github.com/TriHydera/dns-blocklist
+! Contribute: https://github.com/TriHydera/dns-blocklist/discussions
+! License: https://github.com/TriHydera/dns-blocklist/blob/master/LICENSE
+! Last modified: Thu Mar 05 2026
+! Number of entries: 94
 !
 ||unagi.amazon.com^
 ||unagi-*.amazon.com^
@@ -70,6 +69,7 @@
 ||samsungdive.com^
 ||samsungfind.com^
 ||samsungcloudplatform.com^
+||samsung-gamelauncher.com^
 ||.top^
 ||.cn^
 ||.su^

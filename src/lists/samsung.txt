@@ -7,3 +7,4 @@
 ||samsungdive.com^
 ||samsungfind.com^
 ||samsungcloudplatform.com^
+||samsung-gamelauncher.com^
