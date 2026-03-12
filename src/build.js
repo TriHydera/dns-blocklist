@@ -19,7 +19,8 @@ function headerContents(ruleCount) {
 ! Contribute: https://github.com/TriHydera/dns-blocklist/discussions
 ! License: https://github.com/TriHydera/dns-blocklist/blob/master/LICENSE
 ! Last modified: ${new Date().toDateString()}
-! Number of entries: ${ruleCount}
+| Expires: 30 days
+! Count: ${ruleCount}
 !`
 
     return headerTemplate
@@ -32,15 +33,15 @@ function headerContents(ruleCount) {
  */
 const files = [
     "amazon.txt",
-    "amazon-services.txt",   
+    "amazon-services.txt",
     "google.txt",
     "google-apis.txt",
-    "google-apis-extra.txt",
     "microsoft.txt",
     "samsung.txt",
     "twitter.txt",
     "bad-abused-tlds.txt",
-    "misc.txt"
+    "misc.txt",
+    "telemetry.txt"
 ]
 var newContent = ""
 

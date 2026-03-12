@@ -1,17 +1,11 @@
 # Misc
-# Mozilla, Microsoft, etc.
-||qq.com^
-||detectportal.firefox.com^
-||adobedtm.com^
+# Microsoft, etc.
 ||appcloud.mcafee.com^
-||briskbard.com^
-||r1.dotdigital-pages.com^
-||flurry.com^
-||app-errors.overwolf.com^
-||analyticsnew.overwolf.com^
-||onezapp.com^
+||dotdigital-pages.com^
 ||alb.reddit.com^
 
-# Misc (Unblock)
+# Ads (Unblock)
 @@||adjust.com^
-@@||analytics.ionos.co.uk^
+
+# Tencent QQ
+||qq.com^

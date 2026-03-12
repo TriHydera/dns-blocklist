@@ -24,9 +24,11 @@ Heres the compiled list with all domains
 
 Find the sources in the `lists` folder or click on the link
 
+### Big Tech
+
 - [Amazon](https://github.com/TriHydera/dns-blocklist/blob/master/lists/amazon.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Famazon.txt?style=plastic)
 
-- [Amazon](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/amazon-services.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Famazon-services.txt?style=plastic)
+- [Amazon Services](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/amazon-services.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Famazon-services.txt?style=plastic)
 
 - [Google](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/google.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fgoogle.txt?style=plastic)
 
@@ -36,8 +38,12 @@ Find the sources in the `lists` folder or click on the link
 
 - [Samsung](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/samsung.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fsamsung.txt?style=plastic)
 
+### Misc
+
 - [Misc](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/misc.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fmisc.txt?style=plastic)
 
 - [Bad / Abused TLDs](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/bad-abused-tlds.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fbad-abused-tlds.txt?style=plastic)
+
+- [Telemetry](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/telemetry.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Ftelemetry.txt?style=plastic)
 
 - [Twitter](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/twitter.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Ftwitter.txt?style=plastic)

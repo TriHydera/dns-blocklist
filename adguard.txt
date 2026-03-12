@@ -3,8 +3,9 @@
 ! Home: https://github.com/TriHydera/dns-blocklist
 ! Contribute: https://github.com/TriHydera/dns-blocklist/discussions
 ! License: https://github.com/TriHydera/dns-blocklist/blob/master/LICENSE
-! Last modified: Thu Mar 05 2026
-! Number of entries: 94
+! Last modified: Thu Mar 12 2026
+| Expires: 30 days
+! Count: 92
 !
 ||unagi.amazon.com^
 ||unagi-*.amazon.com^
@@ -89,14 +90,12 @@
 ||.uc^
 ||.uz^
 ||.ae^
-||qq.com^
-||detectportal.firefox.com^
-||adobedtm.com^
 ||appcloud.mcafee.com^
-||briskbard.com^
-||r1.dotdigital-pages.com^
+||dotdigital-pages.com^
+||alb.reddit.com^
+||qq.com^
 ||flurry.com^
 ||app-errors.overwolf.com^
 ||analyticsnew.overwolf.com^
-||onezapp.com^
-||alb.reddit.com^
+||analytics.ninjakiwi.com^
+||adobedtm.com^

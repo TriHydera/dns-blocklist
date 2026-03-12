@@ -45,3 +45,6 @@
 ||locationhistoryaggregates-pa.googleapis.com^
 ||semanticlocation-pa.googleapis.com^
 ||timeline.google.com^
+
+# Google (Misc)
+||auditrecording-pa.googleapis.com^
