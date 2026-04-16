@@ -1,11 +1,18 @@
 # Misc
-# Microsoft, etc.
+||adobedtm.com^
 ||appcloud.mcafee.com^
-||dotdigital-pages.com^
+||briskbard.com^
+||r1.dotdigital-pages.com^
+||flurry.com^
+||app-errors.overwolf.com^
+||analyticsnew.overwolf.com^
+||onezapp.com^
 ||alb.reddit.com^
-
-# Ads (Unblock)
-@@||adjust.com^
+||c6.paypal.com^
+@@||click.discord.com^
 
 # Tencent QQ
 ||qq.com^
+
+# Misc (Unblock)
+@@||adjust.com^
