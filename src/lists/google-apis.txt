@@ -3,6 +3,7 @@
 ||safebrowsing.googleapis.com^
 ||content-autofill.googleapis.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
+||auditrecording-pa.googleapis.com^
 
 # Google (Public APIs)
 ||growth-pa.googleapis.com^
@@ -24,6 +25,7 @@
 ||wirelessdevicestats.googleapis.com^
 ||feedback-pa.clients6.google.com^
 ||feedback-pa.google.com^
+||crashlyticsreports-pa.googleapis.com^
 
 # Google (Tracking)
 ||clientmetrics-pa.googleapis.com^
@@ -45,6 +47,3 @@
 ||locationhistoryaggregates-pa.googleapis.com^
 ||semanticlocation-pa.googleapis.com^
 ||timeline.google.com^
-
-# Google (Misc)
-||auditrecording-pa.googleapis.com^

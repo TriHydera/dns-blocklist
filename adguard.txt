@@ -3,7 +3,7 @@
 ! Home: https://github.com/TriHydera/dns-blocklist
 ! Contribute: https://github.com/TriHydera/dns-blocklist/discussions
 ! License: https://github.com/TriHydera/dns-blocklist/blob/master/LICENSE
-! Last modified: Thu Apr 16 2026
+! Last modified: Thu May 14 2026
 | Expires: 30 days
 ! Count: 99
 !
@@ -25,6 +25,7 @@
 ||safebrowsing.googleapis.com^
 ||content-autofill.googleapis.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
+||auditrecording-pa.googleapis.com^
 ||growth-pa.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 ||jnn-pa.googleapis.com^
@@ -44,6 +45,7 @@
 ||wirelessdevicestats.googleapis.com^
 ||feedback-pa.clients6.google.com^
 ||feedback-pa.google.com^
+||crashlyticsreports-pa.googleapis.com^
 ||clientmetrics-pa.googleapis.com^
 ||clienttracing-pa.googleapis.com^
 ||tagmanager.googleapis.com^
@@ -57,11 +59,10 @@
 ||locationhistoryaggregates-pa.googleapis.com^
 ||semanticlocation-pa.googleapis.com^
 ||timeline.google.com^
-||auditrecording-pa.googleapis.com^
 ||skype.com^
-||geover.prod.do.dsp.mp.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
 ||settings-win.data.microsoft.com^
+||geover.prod.do.dsp.mp.microsoft.com^
 ||samsungcloud.com^
 ||samsungapps.com^
 ||account.samsung.com^
@@ -83,7 +84,6 @@
 ||.cc^
 ||.ml^
 ||.nl^
-||.tk^
 ||.gq^
 ||.cf^
 ||.ga^
