@@ -4,6 +4,4 @@
 ||analyticsnew.overwolf.com^
 ||analytics.ninjakiwi.com^
 ||adobedtm.com^
-
-# Telemetry (Unblock)
-@@||analytics.ionos.co.uk^
+||onezapp.com^

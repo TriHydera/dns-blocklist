@@ -46,4 +46,4 @@ Find the sources in the `lists` folder or click on the link
 
 - [Telemetry](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/telemetry.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Ftelemetry.txt?style=plastic)
 
-- [Twitter](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/twitter.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Ftwitter.txt?style=plastic)
+- [Allow List](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/allowlist.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fallowlist.txt?style=plastic)

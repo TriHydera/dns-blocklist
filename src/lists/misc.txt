@@ -1,18 +1,8 @@
-# Misc
-||adobedtm.com^
+# Bloatware
 ||appcloud.mcafee.com^
-||briskbard.com^
-||r1.dotdigital-pages.com^
-||flurry.com^
-||app-errors.overwolf.com^
-||analyticsnew.overwolf.com^
-||onezapp.com^
-||alb.reddit.com^
-||c6.paypal.com^
-@@||click.discord.com^
+
+# Marketing
+||dotdigital-pages.com^
 
 # Tencent QQ
 ||qq.com^
-
-# Misc (Unblock)
-@@||adjust.com^

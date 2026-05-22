@@ -38,10 +38,10 @@ const files = [
     "google-apis.txt",
     "microsoft.txt",
     "samsung.txt",
-    "twitter.txt",
     "bad-abused-tlds.txt",
     "misc.txt",
-    "telemetry.txt"
+    "telemetry.txt",
+    "allowlist.txt"
 ]
 var newContent = ""
 

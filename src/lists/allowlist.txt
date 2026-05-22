@@ -1,0 +1,10 @@
+# Telemetry (Unblock)
+@@||analytics.ionos.co.uk^
+
+# Marketing (Unblock)
+@@||adjust.com^
+@@||click.discord.com^
+@@||feedblitz.com^
+
+# Twitter (Unblock)
+@@||t.co^
