@@ -3,7 +3,7 @@
 ! Home: https://github.com/TriHydera/dns-blocklist
 ! Contribute: https://github.com/TriHydera/dns-blocklist/discussions
 ! License: https://github.com/TriHydera/dns-blocklist/blob/master/LICENSE
-! Last modified: Fri May 22 2026
+! Last modified: Sat May 30 2026
 | Expires: 30 days
 ! Count: 92
 !
