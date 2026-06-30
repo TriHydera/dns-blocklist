@@ -13,7 +13,7 @@ Just some AdGuard lists I made for myself but feel free to use them if it's help
 ## List URL
 
 ```
-https://github.com/TriHydera/dns-blocklist/raw/refs/heads/master/adguard.txt
+https://trihydera.github.io/dns-blocklist/adguard.txt
 ```
 
 ## Lists

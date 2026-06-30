@@ -16,7 +16,6 @@ function headerContents(ruleCount) {
     const headerTemplate = `! Title: TriHydera's Big Tech and Junk Blocklist
 ! Description: Blocks a few Big Tech domains and some other junk.
 ! Home: https://github.com/TriHydera/dns-blocklist
-! Contribute: https://github.com/TriHydera/dns-blocklist/discussions
 ! License: https://github.com/TriHydera/dns-blocklist/blob/master/LICENSE
 ! Last modified: ${new Date().toDateString()}
 | Expires: 30 days
@@ -54,7 +53,8 @@ var ruleCount = 0
  * @returns {boolean}
  */
 const isRule = (text => {
-    return text.charAt(0) == "|"
+    if(text.charAt(0) == "@") { return true }
+    if(text.charAt(0) == "|") { return true }
 })
 
 files.forEach(file => {

@@ -1,11 +1,10 @@
 ! Title: TriHydera's Big Tech and Junk Blocklist
 ! Description: Blocks a few Big Tech domains and some other junk.
 ! Home: https://github.com/TriHydera/dns-blocklist
-! Contribute: https://github.com/TriHydera/dns-blocklist/discussions
 ! License: https://github.com/TriHydera/dns-blocklist/blob/master/LICENSE
-! Last modified: Sat May 30 2026
+! Last modified: Tue Jun 30 2026
 | Expires: 30 days
-! Count: 92
+! Count: 101
 !
 ||unagi.amazon.com^
 ||unagi-*.amazon.com^
@@ -21,6 +20,7 @@
 ||metric.gstatic.com^
 ||googlesyndication.com^
 ||doubleclick.net^
+@@||s.youtube.com^ # For YT history
 ||datasaver.googleapis.com^
 ||safebrowsing.googleapis.com^
 ||content-autofill.googleapis.com^
@@ -99,3 +99,11 @@
 ||analytics.ninjakiwi.com^
 ||adobedtm.com^
 ||onezapp.com^
+@@||aax-eu-zaz.amazon.co.uk^
+@@||analytics.ionos.co.uk^
+@@||adjust.com^
+@@||click.discord.com^
+@@||feedblitz.com^
+@@||grow.me^
+@@||t.co^
+@@||vitsum.com^

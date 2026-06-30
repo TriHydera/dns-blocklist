@@ -3,6 +3,6 @@
     "shields-lightweight": "^0.1.0"
   },
   "scripts": {
-    "start": "npm i && node ./src/build.js"
+    "start": "node ./src/build.js"
   }
 }
