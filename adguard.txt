@@ -2,9 +2,9 @@
 ! Description: Blocks a few Big Tech domains and some other junk.
 ! Home: https://github.com/TriHydera/dns-blocklist
 ! License: https://github.com/TriHydera/dns-blocklist/blob/master/LICENSE
-! Last modified: Tue Jun 30 2026
+! Last modified: Fri Aug 07 2026
 | Expires: 30 days
-! Count: 101
+! Count: 103
 !
 ||unagi.amazon.com^
 ||unagi-*.amazon.com^
@@ -105,5 +105,7 @@
 @@||click.discord.com^
 @@||feedblitz.com^
 @@||grow.me^
+@@||click.comms.nectar.com^
+@@||yoursurveynow.com^
 @@||t.co^
 @@||vitsum.com^

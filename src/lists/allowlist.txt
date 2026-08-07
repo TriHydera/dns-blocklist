@@ -9,6 +9,8 @@
 @@||click.discord.com^
 @@||feedblitz.com^
 @@||grow.me^
+@@||click.comms.nectar.com^
+@@||yoursurveynow.com^
 
 # Twitter (Unblock)
 @@||t.co^
