@@ -15,5 +15,10 @@
 # Twitter (Unblock)
 @@||t.co^
 
-# Misc (Unblock) l
+# Misc (Unblock)
 @@||vitsum.com^
+
+# Sky Go (Unblock)
+@@||ott-sgwl.skyanywhere.com^
+@@||cdn.skycdp.com^
+@@||epgsky.com^
