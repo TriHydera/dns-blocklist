@@ -40,6 +40,7 @@ const files = [
     "bad-abused-tlds.txt",
     "misc.txt",
     "telemetry.txt",
+    "adult.txt",
     "allowlist.txt"
 ]
 var newContent = ""

@@ -44,6 +44,8 @@ Find the sources in the `lists` folder or click on the link
 
 - [Bad / Abused TLDs](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/bad-abused-tlds.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fbad-abused-tlds.txt?style=plastic)
 
+- [Telemetry](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/adult.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fadult.txt?style=plastic) - [[Source]](https://www.familyorbit.com/blog/list-of-inappropriate-websites-to-block)
+
 - [Telemetry](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/telemetry.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Ftelemetry.txt?style=plastic)
 
 - [Allow List](https://github.com/TriHydera/dns-blocklist/blob/master/src/lists/allowlist.txt) ![GitHub file size in bytes](https://img.shields.io/github/size/TriHydera/dns-blocklist/src%2Flists%2Fallowlist.txt?style=plastic)
