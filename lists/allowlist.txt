@@ -1,6 +1,3 @@
- # Telemetry (Unblock)
-@@||aax-eu-zaz.amazon.co.uk^
-
 # Services (Unblock)
 @@||analytics.ionos.co.uk^
 
@@ -22,3 +19,6 @@
 @@||ott-sgwl.skyanywhere.com^
 @@||cdn.skycdp.com^
 @@||epgsky.com^
+
+# Game Services Fix (Unblock)
+@@||launches.appsflyersdk.com^

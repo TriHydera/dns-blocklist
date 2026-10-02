@@ -6,3 +6,9 @@
 
 # Tencent QQ
 ||qq.com^
+
+# App Stores
+||pnp.aptoide.com^
+
+# Ads
+||fitlivelywhup.com^

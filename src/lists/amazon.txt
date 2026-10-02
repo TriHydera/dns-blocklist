@@ -1,8 +1,0 @@
-# Amazon
-||unagi.amazon.com^
-||unagi-*.amazon.com^
-||amazonsilk.com^
-||a2z.com^
-||device-messaging-na.amazon.com^
-||todo-ta-g7g.amazon.com^
-||msh.amazon.com^

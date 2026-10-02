@@ -1,0 +1,21 @@
+# Amazon
+||unagi.amazon.com^
+||unagi-*.amazon.com^
+||amazonsilk.com^
+||a2z.com^
+||device-messaging-na.amazon.com^
+||todo-ta-g7g.amazon.com^
+||msh.amazon.com^
+
+# Amazon (Unblock)
+@@||aax-eu-zaz.amazon.co.uk^
+
+# Amazon (Services)
+||api.amazonalexa.com^
+||eu-api-alexa.amazon.co.uk^
+||eu-bob-dispatch-prod-alexa.amazon.co.uk^
+||alexa.amazon.co.uk^
+||alexa.amazon.com^
+||alexa-comms-mobile-service.amazon.com^
+||alexa-comms-mobile-service-na.amazon.com^
+||alexa-mobile.amazon.dev^

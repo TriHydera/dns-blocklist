@@ -2,9 +2,9 @@
 ! Description: Blocks a few Big Tech domains and some other junk.
 ! Home: https://github.com/TriHydera/dns-blocklist
 ! License: https://github.com/TriHydera/dns-blocklist/blob/master/LICENSE
-! Last modified: Wed Aug 26 2026
+! Last modified: Fri Oct 02 2026
 | Expires: 30 days
-! Count: 197
+! Count: 216
 !
 ||unagi.amazon.com^
 ||unagi-*.amazon.com^
@@ -13,16 +13,24 @@
 ||device-messaging-na.amazon.com^
 ||todo-ta-g7g.amazon.com^
 ||msh.amazon.com^
-||music.amazon.co^
-||alexa.amazon.co^
-||audible.com^
+@@||aax-eu-zaz.amazon.co.uk^
+||api.amazonalexa.com^
+||eu-api-alexa.amazon.co.uk^
+||eu-bob-dispatch-prod-alexa.amazon.co.uk^
+||alexa.amazon.co.uk^
+||alexa.amazon.com^
+||alexa-comms-mobile-service.amazon.com^
+||alexa-comms-mobile-service-na.amazon.com^
+||alexa-mobile.amazon.dev^
 ||crashlytics.com^
 ||metric.gstatic.com^
 ||googlesyndication.com^
 ||doubleclick.net^
 @@||s.youtube.com^ # For YT history
+@@||pubads.g.doubleclick.net^ # A skip-able Paramount+ ad (https://github.com/hagezi/dns-blocklists/issues/11141)
 ||datasaver.googleapis.com^
 ||safebrowsing.googleapis.com^
+||android-safebrowsing.google.com^
 ||content-autofill.googleapis.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||auditrecording-pa.googleapis.com^
@@ -72,6 +80,7 @@
 ||samsungfind.com^
 ||samsungcloudplatform.com^
 ||samsung-gamelauncher.com^
+||samsungiotcloud.com^
 ||.top^
 ||.cn^
 ||.su^
@@ -93,12 +102,15 @@
 ||appcloud.mcafee.com^
 ||dotdigital-pages.com^
 ||qq.com^
+||pnp.aptoide.com^
+||fitlivelywhup.com^
 ||flurry.com^
 ||app-errors.overwolf.com^
 ||analyticsnew.overwolf.com^
 ||analytics.ninjakiwi.com^
 ||adobedtm.com^
 ||onezapp.com^
+||telemetry.api.bbci.co.uk ^
 ||omegle.com^
 ||chatroulette.com^
 ||tinychat.com^
@@ -190,7 +202,13 @@
 ||dmt-nexus.me^
 ||bluelight.org^
 ||acidmath.com^
-@@||aax-eu-zaz.amazon.co.uk^
+||bestweapon.vip^
+||bondage-bor.narod.ru^
+||etales.ru^
+||inceststory.net^
+||hotrustars.com^
+||www.phoenix-marie.com^
+||all-celeb2.blogspot.com^
 @@||analytics.ionos.co.uk^
 @@||adjust.com^
 @@||click.discord.com^
@@ -203,3 +221,4 @@
 @@||ott-sgwl.skyanywhere.com^
 @@||cdn.skycdp.com^
 @@||epgsky.com^
+@@||launches.appsflyersdk.com^

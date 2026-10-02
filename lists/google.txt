@@ -1,0 +1,11 @@
+# Google (General)
+||crashlytics.com^
+||metric.gstatic.com^
+
+# Google (Ads)
+||googlesyndication.com^
+||doubleclick.net^
+
+# Google (Unblock)
+@@||s.youtube.com^ # For YT history
+@@||pubads.g.doubleclick.net^ # A skip-able Paramount+ ad (https://github.com/hagezi/dns-blocklists/issues/11141)

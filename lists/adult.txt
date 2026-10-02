@@ -96,3 +96,14 @@
 ||dmt-nexus.me^
 ||bluelight.org^
 ||acidmath.com^
+
+
+# Source: https://github.com/hagezi/dns-blocklists/issues/11345
+||bestweapon.vip^
+||bondage-bor.narod.ru^
+||etales.ru^
+||inceststory.net^
+||hotrustars.com^
+||www.phoenix-marie.com^
+||all-celeb2.blogspot.com^
+

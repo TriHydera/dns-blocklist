@@ -1,5 +1,6 @@
 
-const { writeFileSync, readFileSync, readdirSync } = require('fs')
+const path = require('path')
+const { writeFileSync, readFileSync, readdirSync, readdir } = require('fs')
 var shields = require('shields-lightweight');
 
 // =====================================================================
@@ -32,12 +33,11 @@ function headerContents(ruleCount) {
  */
 const files = [
     "amazon.txt",
-    "amazon-services.txt",
     "google.txt",
     "google-apis.txt",
     "microsoft.txt",
     "samsung.txt",
-    "bad-abused-tlds.txt",
+    "abused-tlds.txt",
     "misc.txt",
     "telemetry.txt",
     "adult.txt",
@@ -59,7 +59,8 @@ const isRule = (text => {
 })
 
 files.forEach(file => {
-    const fileContent = readFileSync("src/lists/" + file).toString()
+    const fileContent = readFileSync(path.resolve(__dirname, "../lists",file)).toString()
+
 
     fileContent.split("\n").forEach(line => {
         if (isRule(line)) {
